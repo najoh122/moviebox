@@ -1,4 +1,4 @@
-MovieBox – Movie Discovery App
+MovieBox Movie Discovery App
 
 Welcome to MovieBox, a movie discovery application inspired by MovieBox and created as part of my web development learning journey.
 
