@@ -1,6 +1,6 @@
 MovieBox Movie Discovery App
 
-Welcome to MovieBox, a movie discovery application inspired by MovieBox and created as part of my web development learning journey.
+My Name is Jenifer Timon Welcome to MovieBox, a movie discovery application inspired by MovieBox and created as part of my web development learning journey.
 
 About the Project
 
